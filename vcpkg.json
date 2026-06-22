@@ -1,0 +1,12 @@
+{
+  "name": "cubeworld",
+  "version": "0.1.0",
+  "description": "CubeWorld voxel game built on the custom CubeEngine.",
+  "dependencies": [
+    "glfw3",
+    "glad",
+    "glm",
+    "enet",
+    "catch2"
+  ]
+}

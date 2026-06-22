@@ -1,0 +1,19 @@
+# Build output
+/build/
+/out/
+[Bb]in/
+[Oo]bj/
+
+# vcpkg installed tree (kept out of source control in manifest mode)
+/vcpkg_installed/
+
+# Visual Studio
+.vs/
+*.user
+CMakeSettings.json
+
+# Runtime world saves (server region/player data, regenerated from the seed)
+/world/
+
+# Logs
+*.log
